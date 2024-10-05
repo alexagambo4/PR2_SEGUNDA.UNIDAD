@@ -50,3 +50,19 @@ while numero >= 0:  # Continuar mientras el número sea mayor o igual a cero
 #El programa termina cuando se ingresa un número negativo
 
 ![image](https://github.com/user-attachments/assets/b72bb818-a1af-4410-b2e4-2e8ca586dbd2)
+
+
+#Ejemplos con for 
+#Ejemplo no.1
+frutas = ["manzana", "plátano", "cereza"]
+for fruta in frutas:
+    print(fruta)
+
+#Ejemplo no.2
+for i in range(5):
+    print(i)
+
+#Ejemplo no.3
+cuadrados = [x**2 for x in range(10)]
+print(cuadrados)
+![image](https://github.com/user-attachments/assets/18c8f25d-1f50-4c2e-9924-b9dc6881cc03)
