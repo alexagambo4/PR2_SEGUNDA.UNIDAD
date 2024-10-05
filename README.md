@@ -1,4 +1,23 @@
 # PR2_SEGUNDA.UNIDAD
+#imprime el nombre y grupo de la autora
+
+print("Jimenez Gamboa Issis Alexa")
+
+print("3ro W")
+
+#imprime la fecha de hoy
+
+import datetime
+
+x = datetime.datetime.now()
+
+print(x)
+
+#se imprime el titulo del bellisimo programa
+
+print("PRACTICA 1, SEGUNDA UNIDAD")
+
+print("") #imprime una linea en blanco tipo para que se vea mas limpio el programita
 #Este programa pide al usuario que ingrese un número positivo
 
 #El bucle continuará pidiendo números hasta que el usuario ingrese un número negativo
